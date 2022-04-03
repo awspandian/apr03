@@ -8,3 +8,6 @@ git log
 git log --oneline
 
 git pull
+
+
+git fetch
