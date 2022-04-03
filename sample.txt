@@ -1,5 +1,10 @@
+
 git stash
+
 
 git log
 
+
 git log --oneline
+
+git pull
