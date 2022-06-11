@@ -5,3 +5,8 @@ git commit -m
 git cherry-pick
 
 git revert
+
+git stash
+
+git log
+git log --oneline
